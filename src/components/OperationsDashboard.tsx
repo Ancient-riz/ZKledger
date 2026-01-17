@@ -184,7 +184,7 @@ export default function OperationsDashboard({ onBack }: OperationsDashboardProps
 
             {[
               { name: 'Dashboard', icon: Activity, view: 'dashboard' },
-              { name: 'ZK fam', icon: Bot, view: 'ZK fam' }
+              { name: 'AI Assistant', icon: Bot, view: 'ai-assistant' }
             ].map(item => (
               <button
                 key={item.name}
@@ -206,7 +206,7 @@ export default function OperationsDashboard({ onBack }: OperationsDashboardProps
         <div className="flex-1 lg:ml-64">
           <header className="bg-black border-b border-gray-800 p-6 flex justify-between">
             <h1 className="text-2xl font-bold text-[#F5B301]">
-              {activeView === 'dashboard' ? 'Operations Center' : 'ZK fam'}
+              {activeView === 'dashboard' ? 'Operations Center' : 'AI Assistant'}
             </h1>
             <div className="flex items-center gap-2 text-gray-400">
               <Clock size={16} />
