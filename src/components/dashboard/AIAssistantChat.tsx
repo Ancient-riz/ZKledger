@@ -324,10 +324,10 @@ return "Ask about ZK Ledger, credentials, verification, Soulbound Tokens, IPFS, 
   };
 
   const quickQuestions = [
-    'What is STORIUM?',
-    'Why decentralized storage?',
+    'What is zk ledger ?',
+    'Why zk ledger ?',
     'How does IPFS work?',
-    'How does access control work?',
+    'wht is blockchain ?',
   ];
 
   return (
