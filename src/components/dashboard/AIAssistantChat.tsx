@@ -409,4 +409,4 @@ return "Ask about ZK Ledger, credentials, verification, Soulbound Tokens, IPFS, 
   );
 };
 
-export default AIAssistantChat;
+export default AIAssistantChat; 
