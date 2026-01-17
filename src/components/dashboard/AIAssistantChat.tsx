@@ -351,7 +351,7 @@ return "Ask about ZK Ledger, credentials, verification, Soulbound Tokens, IPFS, 
               {msg.type === 'bot' && (
                 <div style={{ display: 'flex', alignItems: 'center', marginBottom: '8px' }}>
                   <Sparkles size={16} style={{ color: '#22c55e', marginRight: '8px' }} />
-                  <span style={{ fontSize: '0.8rem', color: '#9ca3af' }}>STORIUM AI</span>
+                  <span style={{ fontSize: '0.8rem', color: '#9ca3af' }}>ZK FAM</span>
                 </div>
               )}
               {msg.text}
