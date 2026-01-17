@@ -338,7 +338,7 @@ return "Ask about ZK Ledger, credentials, verification, Soulbound Tokens, IPFS, 
             <Bot size={20} color="white" />
           </div>
           <div>
-            <h3 className="header-title">ZK fam</h3>
+            <h3 className="header-title">AI Assistant</h3>
             <p className="header-subtitle">Decentralized storage assistant</p>
           </div>
         </div>
@@ -409,4 +409,4 @@ return "Ask about ZK Ledger, credentials, verification, Soulbound Tokens, IPFS, 
   );
 };
 
-export default AIAssistantChat; 
+export default AIAssistantChat;
